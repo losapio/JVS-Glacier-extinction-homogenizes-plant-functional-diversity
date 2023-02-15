@@ -1,6 +1,5 @@
 # Glacier extinction homogenizes functional diversity
-Supplementary Information
-Data and R script
+Supplementary Information: Data and R script
 
 Authors: Khelidj N, Cerabolini BEL, Caccianiga M, Losapio G
 
